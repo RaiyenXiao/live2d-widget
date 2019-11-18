@@ -164,6 +164,9 @@
 	}, {
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+	}, {
+		"selector": "#map-content",
+		"text": ["红点是主人想去的地方哦！", "飞机航线是主人去过的城市哦～"]
 	}],
 	"click": [{
 		"selector": "#waifu #live2d",
